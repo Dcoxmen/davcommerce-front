@@ -37,8 +37,8 @@ const Home = () => {
 
   return (
     <Layout
-      title="Home Page"
-      description="MERN Stack React E-Commerce App"
+      title="T-Shirt Art Store"
+      description="MERN Stack Sample E-Commerce App"
       className="container"
     >
       <Search />
