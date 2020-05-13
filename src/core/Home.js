@@ -38,7 +38,7 @@ const Home = () => {
   return (
     <Layout
       title="T-Shirt Art Store"
-      description="MERN Stack Sample E-Commerce App. A subscriber model e-commerce store front and multi-level inventory managment system. The payment gateway is braintree sandbox for testing and checkout simulation. You can explore as a registered user. Just sign up. Contact me if you would like access to demo the admin area.
+      description="MERN Stack Sample E-Commerce App. A subscriber model e-commerce store and multi-level inventory managment system. Braintree payment gateway sandbox is used for checkout simulation. You can explore as a registered user. Contact me for admin level demo.
       Daventertainment.com"
       className="container"
     >

@@ -94,8 +94,8 @@ const Signin = () => {
 
   return (
     <Layout
-      title="Sign-In Page"
-      description="Sign-in to MERN Stack React E-Commerce App"
+      title="T-Shirt Art Store Sign-In"
+      description="This page is the entry for all registered users of the store. This allows direct access to their dashboard. Sign up and login to explore more."
       className="container col-md-8 offset-md-2"
     >
       {showLoading()}

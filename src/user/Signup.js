@@ -94,8 +94,8 @@ const Signup = () => {
 
   return (
     <Layout
-      title="Sign-Up Page"
-      description="Sign-up to MERN Stack React E-Commerce App"
+      title="T-Shirt Art Store Sign-Up"
+      description="Here users can register and gain access to their own user dashboard. User level can then edit profile and gain checkout access. Sign up to explore more of this app."
       className="container col-md-8 offset-md-2"
     >
       {showSuccess()}
