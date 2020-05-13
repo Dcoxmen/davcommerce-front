@@ -45,15 +45,15 @@ const Cart = () => {
 
   return (
     <Layout
-      title="Shopping Cart"
-      description="Checkout now!"
+      title="T-Shirt Art Store Cart"
+      description="Once an item is selected for purchase it is displayed in this area along with a payment form. Quantity can be adjusted. Products can be viewed or removed. To test use testing Visa number 4111 1111 1111 1111 to simulate a payment. Add any expiration date and CVV."
       className="container-fluid"
     >
       <div className="row">
-        <div className="col-6">
+        <div className="col-md-6 col-sm-12">
           {items.length > 0 ? showItems(items) : noItemsMessage()}
         </div>
-        <div className="col-6">
+        <div className="col-md-6 col-sm-12">
           <h2 className="mb-4">Your Cart Summary</h2>
           <hr />
           <Checkout products={items} />

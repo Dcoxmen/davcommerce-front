@@ -93,12 +93,12 @@ const Dashboard = () => {
   return (
     <Layout
       title="Dashboard"
-      description={`Hello ${name}!`}
+      description={`Hello ${name}! Welcome to your user dashboard. You can view your purchase history, update your profile information and access your cart. The admin level dashboard can manage product inventory, order fullfilment and category creation. Contact Daventertainment.com for demo.`}
       className="container-fluid"
     >
       <div className="row">
-        <div className="col-3">{userLinks()}</div>
-        <div className="col-9">
+        <div className="col-md-3 col-sm-12">{userLinks()}</div>
+        <div className="col-md-9 col-sm-12">
           {userInfo()}
           {purchaseHistory(history)}
         </div>

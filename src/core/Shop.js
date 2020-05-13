@@ -98,12 +98,12 @@ const Shop = () => {
 
   return (
     <Layout
-      title="Shopping Page"
-      description="Pick your favorite T-Shirts"
+      title="T-Shirt Art Store Shop"
+      description="This page displays all products in the inventory with added filter features by category and price. These features of convenience are applied instantly upon selection."
       className="container-fluid"
     >
       <div className="row">
-        <div className="col-3">
+        <div className="col-md-3 col-sm-12">
           <h4>Filter by categories</h4>
           <ul>
             <Checkbox
@@ -119,11 +119,11 @@ const Shop = () => {
             />
           </ul>
         </div>
-        <div className="col-9">
+        <div className="col-md-9 col-sm-12">
           <h2 className="mb-4">Products</h2>
           <div className="row">
             {filteredResults.map((product, i) => (
-              <div key={i} className="col-4 mb-3">
+              <div key={i} className="col-md-4 col-sm-12 mb-3">
                 <Card product={product} />
               </div>
             ))}
