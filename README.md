@@ -7,8 +7,11 @@ buying items, profile updates and purchase history.
 ### `Technology used in this front end`
 
 React
+
 Moment
+
 Query_String
+
 Braintree Payment Gateway
 
 [https://davcommerce.com](https://davcommerce.com)
