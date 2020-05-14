@@ -14,6 +14,8 @@ Query_String
 
 Braintree Payment Gateway
 
+Test the demo at the link below:
+
 [https://davcommerce.com](https://davcommerce.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
