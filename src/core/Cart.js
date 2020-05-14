@@ -46,7 +46,7 @@ const Cart = () => {
   return (
     <Layout
       title="T-Shirt Art Store Cart"
-      description="Once an item is selected for purchase it is displayed in this area along with a payment form. Quantity can be adjusted. Products can be viewed or removed. To test use testing Visa number 4111 1111 1111 1111 to simulate a payment. Add any expiration date and CVV."
+      description="Purchased items are displayed in this area along with a payment form. Quantity can be adjusted. Products can be viewed or removed. To test use Visa number 4111 1111 1111 1111 to simulate a payment. Add any expiration date and CVV."
       className="container-fluid"
     >
       <div className="row">
