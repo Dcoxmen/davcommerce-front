@@ -12,9 +12,9 @@ Moment
 
 Query_String
 
-<hr/>
+Braintree Payment Gateway
 
-## Braintree Payment Gateway
+<hr/>
 
 #### Test the demo at the link below:
 
