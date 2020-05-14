@@ -1,0 +1,12 @@
+.form-check-input {
+  width: 18px;
+  height: 18px;
+}
+.radio-input {
+  width: 18px;
+  height: 18px;
+}
+.btn-outline-warning {
+  color: rgb(255, 108, 10);
+  border-color: rgb(255, 108, 10);
+}
