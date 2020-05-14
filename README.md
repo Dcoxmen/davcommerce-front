@@ -12,7 +12,7 @@ Moment
 
 Query_String
 
-(<hr/>)
+<hr/>
 
 ## Braintree Payment Gateway
 
@@ -26,7 +26,7 @@ Query_String
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-(<hr/>)
+<hr/>
 
 ## Available Scripts
 
