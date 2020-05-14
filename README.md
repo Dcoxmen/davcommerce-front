@@ -1,3 +1,18 @@
+## Davcommerce Front End
+
+This repository is the front end code base for E-commerce store front project. It is part of a system that manages product inventory, order fulfilment,
+and store front product placement. The subscriber model creates customer base growth and uses token base authentication. Registered users have access to
+buying items, profile updates and purchase history.
+
+### `Technology used in this front end`
+
+React
+Moment
+Query_String
+Braintree Payment Gateway
+
+[https://davcommerce.com](https://davcommerce.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
