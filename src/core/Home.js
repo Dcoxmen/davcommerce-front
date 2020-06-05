@@ -37,9 +37,10 @@ const Home = () => {
 
   return (
     <Layout
-      title="T-Shirt Art Store"
-      description="MERN Stack Sample E-Commerce App. A subscriber model store and inventory managment system. Using Braintree payment gateway sandbox for checkout simulation. You can explore as a registered user. Contact me for admin demo.
-      Daventertainment.com"
+      title="RiotWhere T-Shirts"
+      description="This is an art collection inspired by wave unrest throughout the country. A portion of each purchase will be
+      donted to rebuilding local communities and businesses.
+      Hosted by davcommerce.com"
       className="container"
     >
       <Search />

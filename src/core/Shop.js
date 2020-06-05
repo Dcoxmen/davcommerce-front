@@ -98,8 +98,9 @@ const Shop = () => {
 
   return (
     <Layout
-      title="T-Shirt Art Store Shop"
-      description="This page displays all products in the inventory with added filter features by category and price. These features of convenience are applied instantly upon selection."
+      title="RiotWhere T-shirts is our featured vendor"
+      description="Riot Where graphics display cities affected by injustice and violence .
+      Distressed greeting cards with bullet hole. 25% of purchase will go to rebuilding the city selected."
       className="container-fluid"
     >
       <div className="row">
